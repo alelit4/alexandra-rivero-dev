@@ -6,7 +6,7 @@
     "dev": "gridsome develop",
     "explore": "gridsome explore",
     "predeploy": "npm run build",
-    "deploy": "gridsome build && gh-pages -d dist -b main"
+    "deploy": "gridsome build && gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",

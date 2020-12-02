@@ -6,8 +6,8 @@
 
 module.exports = {
   siteName: 'Posts',
-  siteDescription: 'Alexandra Rivero. Co-organizer AdaLoveDev and GDG Tenerife \n' +
-      'Official keeper of the Milky Way\'s Stars!',
+  siteDescription: 'Alexandra Rivero.\n' +
+      '\n Co-organizadora de las comunidades AdaLoveDev y GDG Tenerife',
   siteUrl: 'https://alexandrarivero.dev',
   pathPrefix: '',
 

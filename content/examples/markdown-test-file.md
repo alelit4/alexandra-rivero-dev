@@ -1,5 +1,5 @@
 ---
-title: Markdown test file
+title: Mi super post
 date: 2019-02-06
 published: true
 tags: ['Markdown','Test files']
@@ -49,7 +49,7 @@ determines the header level.)
 
 Images are added with `![Image Alt](./images/image.jpg)`
 
-![Image](./images/alexandr-podvalny-220262-unsplash.jpg)
+![Image](../posts/images/alexandr-podvalny-220262-unsplash.jpg)
 
 
 ### Blockquotes

@@ -16,8 +16,8 @@ apasionada a la tecnología.
 Este blog va a ser simplemente una herramienta personal en la que plasmaré las cosillas en las que estoy trabajando.
 He decidido publicarlo en abierto por si alguien que pase por aquí le sirve de algo.
 
-🎯 Mis objetivos van a ser, crear posts que:
-* Tengan un enfoque práctico y funcional
+🎯 Mis objetivos van a ser, crear posts que tengan:
+* Enfoque práctico y funcional
 * Formato simple y sencillo  
 * Plasmen ideas principales
 
@@ -25,4 +25,4 @@ También hablaré un poquito de cosas relacionadas con mis aficiones, eventos en
 jaleos en los que me meto 😅, mi comunidad querida AdaLoveDev🥰 e ideas/debates en las que participe 
 que me parezcan interesantes.
 
-Sin más preámbulos, empezeeemos 🤓!!
+Sin más preámbulos, empeceeemos 🤓!!

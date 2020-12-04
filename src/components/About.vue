@@ -26,18 +26,18 @@
 
             </div>
             <p class="mb-5 justify-content-center">
-                Soy ingeniera informática y tengo una tesis basada en la aplicación de sistemas criptográficos seguros
-                en comunicaciones inalámbricas de dispositivos móviles; específicamente en sistemas mHealth.
-                Gracias a esto he podido involucrarme en diferentes areas.
+                Soy ingeniera informática y tengo una tesis basada en la aplicación de sistemas criptográficos seguros🔑
+                en comunicaciones inalámbricas de dispositivos móviles👩‍🎓; específicamente en sistemas mHealth.
+                Casi no lo digo💪... gracias a esto he podido involucrarme en diferentes areas.
                 Me considero una persona creativa e ingeniosa.
                 He estado trabajando como desarrolladora FullStack y desarrolladora móvil durante 6 años.
-                He trabajado con Java y Kotlin en desarrollo Android, y en el lado web me encanta: nodejs, express,
-                mongodb, firebase, polymer, vurejs...
-                Además, desde el inicio del año 2020 he estado trabajando como desarrolladora backend con Java.
-                Desde hace algún tiempo me he enfocado en la creación de código limpio y buenas prácticas, más que
+                He trabajado con Java y Kotlin en desarrollo Android, y en el lado web me encanta nodejs, express,
+                mongodb, firebase, polymer, vuejs...
+                Además, desde el inicio del año 2020 he estado trabajando como desarrolladora backend con Java 🤟.
+                Desde hace algún tiempo me he enfocado en la creación de código limpio🧼 y buenas prácticas🧹, más que
                 en el conocimiento de una tecnología específica.
                 Actualmente este punto es algo fundamental para mi carrera profesional.
-                Actualmente soy co-organizadora de la comunidad AdaLoveDev y Gdg Tenerife.
+                👾 Gamer frustrada por falta de tiempo, co-organizadora de la comunidad AdaLoveDev y Gdg Tenerife.
             <p class=" mb-5">
                 Me encanta aprender cosas nuevas y mejorar mis habilidades cada día.
             </p>

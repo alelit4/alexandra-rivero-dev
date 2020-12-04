@@ -28,7 +28,7 @@
             <p class="mb-5 justify-content-center">
                 Soy ingeniera informática y tengo una tesis basada en la aplicación de sistemas criptográficos seguros🔑
                 en comunicaciones inalámbricas de dispositivos móviles👩‍🎓; específicamente en sistemas mHealth.
-                Casi no lo digo💪... gracias a esto he podido involucrarme en diferentes areas.
+                Casi no lo digo💪... gracias a esto he podido involucrarme en diferentes áreas.
                 Me considero una persona creativa e ingeniosa.
                 He estado trabajando como desarrolladora FullStack y desarrolladora móvil durante 6 años.
                 He trabajado con Java y Kotlin en desarrollo Android, y en el lado web me encanta nodejs, express,

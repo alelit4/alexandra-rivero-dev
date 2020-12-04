@@ -5,7 +5,7 @@ published: true
 tags: ['Git', 'Utils', 'CheatSheet']
 series: false
 canonical_url: false
-description: "En este post me gustaría compartir algunos imprescindibles de git que tengo siempre a la mano para ocasiones 
+description: "Algunos imprescindibles de git que tengo siempre a la mano para ocasiones 
               especiales en los que se complica alguna cosilla."
 ---
 

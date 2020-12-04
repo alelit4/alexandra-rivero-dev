@@ -1,6 +1,6 @@
 ---
 title: 📝 ¡Hello Word!
-date: 2020-12-02
+date: 2020-12-05
 published: true
 tags: ['Introducción', '2020']
 series: false

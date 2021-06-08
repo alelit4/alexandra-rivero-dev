@@ -27,3 +27,10 @@ https://gridsome-starter-blog.netlify.com
 2. `cd my-gridsome-site` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+### 3. Update this web
+
+1. `npm install`
+2. `gridsome build`
+3. `gh-pages -d dist` and change GitHub Pages configuration
+4. Happy coding 🎉🙌

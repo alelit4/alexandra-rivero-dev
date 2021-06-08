@@ -40,7 +40,7 @@ aplicaciones web de una forma estable, todo con la misma base de código...
 ### ⛑ Null Safety
 
 Una de las mejores noticias que nos han dado recientemente 
-a los desarrolladores es el null safety de Dart. 
+a los desarrolladores es el null safety de Dart 😍. 
 En la Google IO se recuerda esta funcionalidad que nos va a ayudar a tener 
 código de mejor calidad y mucho más simple y sencillo.
 
